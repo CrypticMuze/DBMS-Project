@@ -4,5 +4,7 @@ This is a introductory project for beginners regarding Database Management Syste
 Make sure you have PHPMyAdmin on your localhost before using this project on your host system.
 
 Required tools also include:
+
     -Notepad ++
+    
     -VS Code
