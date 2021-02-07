@@ -8,3 +8,6 @@ Required tools also include:
     -Notepad ++
     
     -VS Code
+    
+# Disclaimer!
+This project is for academic purposes only. It is not a developers project and draws inspiration from several sources.
