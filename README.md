@@ -7,6 +7,8 @@ Required tools also include:
 
     -Notepad ++
     
+    -XAMPP Server
+    
     -VS Code
     
 # Disclaimer!
